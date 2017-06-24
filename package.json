@@ -1,0 +1,26 @@
+{
+  "name": "cfe_typescript_tut",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.2.2",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "webpack --watch",
+    "server": "http-server -c-1",
+    "test": "echo \n'Error no test specified\n' && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "typescript",
+    "with",
+    "cfe"
+  ],
+  "author": "Toufiq",
+  "license": "MIT"
+}
