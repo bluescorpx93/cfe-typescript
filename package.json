@@ -1,7 +1,6 @@
 {
   "name": "cfe_typescript_tut",
   "version": "1.0.0",
-  "description": "learn typescript",
   "main": "webpack.config.js",
   "dependencies": {
     "jquery": "^3.2.1",
@@ -15,12 +14,8 @@
     "server": "http-server -c-1",
     "test": "echo \n'Error no test specified\n' && exit 1"
   },
-  "keywords": [
-    "learn",
-    "typescript",
-    "with",
-    "cfe"
-  ],
-  "author": "Toufiq",
+  "author": "Toufiq (https://twitter.com/burningraven06)",
+  "description" : "TypeScript Tryout ",
+  "keywords" : [ "angular",  "javascript",  "tutorial",  "youtube",  "angular4"],
   "license": "MIT"
 }
